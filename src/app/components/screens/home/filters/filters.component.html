@@ -1,0 +1,14 @@
+<div class="filters">
+    <button (click)="handleFilter('burger')" [ngClass]="{active: type === 'burger'}">
+        <img src="https://cdn-icons-png.flaticon.com/512/5786/5786940.png" alt="burger">
+    </button>
+        <button (click)="handleFilter('taco')" [ngClass]="{active: type === 'taco'}">
+        <img src="https://cdn-icons-png.flaticon.com/512/94/94280.png" alt="taco">
+    </button>
+        <button (click)="handleFilter('chicken')" [ngClass]="{active: type === 'chicken'}">
+        <img src="https://i.pinimg.com/originals/d6/f6/fe/d6f6febe5dec8c3b9564d7c514f5c8d0.png" alt="chicken">
+    </button>
+        <button (click)="handleFilter('drink')" [ngClass]="{active: type === 'drink'}">
+        <img src="https://cdn-icons-png.flaticon.com/512/193/193579.png" alt="drink">
+    </button>
+</div>

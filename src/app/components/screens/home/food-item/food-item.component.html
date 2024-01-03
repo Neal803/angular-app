@@ -1,0 +1,9 @@
+<a [routerLink]="'/food/' + food.id" class="item">
+    <img [src]="food.image" [alt]="food.title">
+    <span class="heading">
+        {{food.title}}
+    </span>
+    <span class="price">
+        {{ food.price }} грн
+    </span>
+</a>

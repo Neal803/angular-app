@@ -1,0 +1,14 @@
+.filters {
+    @apply grid grid-cols-4 gap-8 px-6;
+    > button{
+        @apply bg-white rounded-lg overflow-hidden transition-colors duration-300 p-3;
+
+        &.active{
+            @apply bg-orange-200;
+        }
+
+        img{
+            @apply h-auto mx-auto;
+        }
+    }
+}

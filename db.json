@@ -1,0 +1,12 @@
+{
+    "food": [
+        {"id": 1, "title": "Beef Burger", "price": 220, "type": "burger", "image": "https://static.vecteezy.com/system/resources/previews/022/598/800/original/tasty-beef-burger-png.png"},
+        {"id": 2, "title": "Chicken Burger", "price": 190, "type": "burger", "image": "https://purepng.com/public/uploads/large/purepng.com-chickenburgersandwhichfoodbreadcaviarburgerdelicious-21526117736pdp0a.png"},
+        {"id": 3, "title": "Cheese Burger", "price": 170, "type": "burger", "image": "https://purepng.com/public/uploads/large/purepng.com-cheeseburgerburger-food-cheese-fast-cheeseburger-hamburger-9415246000238fulo.png"},
+        {"id": 4, "title": "BigMac", "price": 210, "type": "burger", "image": "https://www.vhv.rs/dpng/f/465-4657388_title-big-mac-mcdonalds-australia-hd-png-download.png"},
+        {"id": 5, "title": "Taco", "price": 199, "type": "taco", "image": "https://dqtexas.com/wp-content/uploads/2023/07/SINGLE-TACO.png"},
+        {"id": 6, "title": "Chicken Wrap", "price": 180, "type": "chicken", "image": "https://static.vecteezy.com/system/resources/previews/029/199/437/large_2x/shawarma-wrap-filled-with-chicken-kabab-roll-ai-generative-free-png.png"},
+        {"id": 7, "title": "Coca Cola", "price": 30, "type": "drink", "image": "https://www.sushivasabi.com.ua/wp-content/uploads/2021/11/CocaCola.png"},
+        {"id": 8, "title": "Fanta", "price": 30, "type": "drink", "image": "https://pngimg.com/uploads/fanta/fanta_PNG46.png"}
+    ]
+}
